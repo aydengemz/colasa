@@ -66,7 +66,7 @@ export default function Home() {
         if (isLikelyRealDevice) {
           window.location.href = affiliateLink;
         } else {
-          window.location.href = "https://milkmochabear.com/products/matcha-plush";
+          window.location.href = "https://www.darngoodyarn.com/products/brown-bear-amigurumi-crochet-pattern";
         }
       } catch (err) {
         console.error(err);
