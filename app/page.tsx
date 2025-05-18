@@ -66,7 +66,7 @@ export default function Home() {
         if (isLikelyRealDevice) {
           window.location.href = affiliateLink;
         } else {
-          window.location.href = "https://www.darngoodyarn.com/products/brown-bear-amigurumi-crochet-pattern";
+          window.location.href = affiliateLink;
         }
       } catch (err) {
         console.error(err);
